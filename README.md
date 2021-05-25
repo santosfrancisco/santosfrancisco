@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React-native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
